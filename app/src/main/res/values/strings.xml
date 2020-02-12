@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="uri" translatable="false">https://www.google.com</string>
+</resources>
